@@ -1,6 +1,6 @@
 # Flutter E-Commerce Mobile App
 
-A full-featured e-commerce mobile application built using Flutter. Developed as part of a university-level software engineering course, this project simulates a real-world shopping platform with authentication, cart management, checkout validation, order tracking, and persistent user data storage.
+A full-featured e-commerce mobile shopping application built using Flutter. Developed as part of a university-level software engineering course, this project simulates a real-world shopping platform with authentication, cart management, checkout validation, order tracking, and persistent user data storage.
 
 ---
 
