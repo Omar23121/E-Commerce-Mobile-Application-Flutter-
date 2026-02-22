@@ -145,7 +145,7 @@ Make sure you have Flutter SDK installed and an emulator or physical device conn
 
 ---
 
-## Author
+## Authors
 
-Omar Almahmoud  
-Flutter Developer
+- Omar Almahmoud – Lead Development, Architecture, State Management
+- Marjuk Abulkalam – Feature Implementation & UI Enhancements
